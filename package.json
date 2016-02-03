@@ -1,0 +1,11 @@
+{
+	"name": "btpoller",
+	"version": "0.0.1",
+	"description": "Polling seed file from dropbox",
+	"keywords": ["Bittorrent", "dropbox"],
+	"dependencies": {
+		"https-proxy-agent": "1.0.0",
+		"global-tunnel": "1.2.0"
+	},
+	"main": "index"
+}
